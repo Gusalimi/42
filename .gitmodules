@@ -28,3 +28,6 @@
 [submodule "NetPractice"]
 	path = NetPractice
 	url = git@github.com:Gusalimi/NetPractice.git
+[submodule "CPP42"]
+	path = CPP42
+	url = git@github.com:Gusalimi/CPP42.git
